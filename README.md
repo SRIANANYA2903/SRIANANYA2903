@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science Student from India  
+🎓 Artificial Intelligence & Data Science Student from India  
 💻 Passionate about Artificial Intelligence & Data Science  
 🚀 Building real-world projects using Python & Streamlit  
 📚 Strong academic foundation in DBMS, OS, Networking & AI  
@@ -20,10 +20,10 @@
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
-- 🐍 Python
-- 💾 SQL
-- 🌐 HTML
-- 💻 C
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🚀 Tools & Technologies
 - Streamlit
@@ -73,9 +73,9 @@
 
 ## 📫 Connect With Me
 
-📧 Email: (Add your email here)  
-💼 LinkedIn: (Add LinkedIn link here)  
-🌐 Portfolio: (If available)
+📧 Email: sriananya2903@gmail.com 
+💼 LinkedIn:https://www.linkedin.com/in/sriananya-senthil-kumar-b0481a2a1 
+
 
 ---
 
