@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriananya</h1>
-<h3 align="center">Computer Science Student | Python Developer | AI Enthusiast 🚀</h3>
+<h3 align="center"> Artificial Intelligence & Data Science Student | Python Developer | AI Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+Developer;AI+%26+Data+Science+Learner;Future+AI+Engineer" />
@@ -45,13 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SRIANANYA2903&show_icons=true&theme=radical&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIANANYA2903&layout=compact&theme=radical&cache_seconds=1800" height="170"/>
-</p>
----
 
 ## 🌟 Featured Projects
 
