@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sriananya</h1>
+<h3 align="center">Computer Science Student | Python Developer | AI Enthusiast 🚀</h3>
 
-<!--
-**SRIANANYA2903/SRIANANYA2903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+Developer;AI+%26+Data+Science+Learner;Future+AI+Engineer" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+🎓 Computer Science Student from India  
+💻 Passionate about Artificial Intelligence & Data Science  
+🚀 Building real-world projects using Python & Streamlit  
+📚 Strong academic foundation in DBMS, OS, Networking & AI  
+🎯 Goal: Become an AI Engineer  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming Languages
+- 🐍 Python
+- 💾 SQL
+- 🌐 HTML
+- 💻 C
+
+### 🚀 Tools & Technologies
+- Streamlit
+- Git & GitHub
+- VS Code
+- MySQL
+- Machine Learning (Basics)
+- Data Structures
+
+---
+
+## 📌 Academic Strength
+
+✔ Database Management Systems  
+✔ Operating Systems  
+✔ Computer Networks  
+✔ Artificial Intelligence  
+✔ Data Science Fundamentals  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SRIANANYA2903&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIANANYA2903&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+🔹 AI Chatbot using Streamlit  
+🔹 Database Management Mini Project  
+🔹 Machine Learning Model  
+🔹 Python-Based Applications  
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SRIANANYA2903&theme=react-dark"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: (Add your email here)  
+💼 LinkedIn: (Add LinkedIn link here)  
+🌐 Portfolio: (If available)
+
+---
+
+⭐ “Code. Learn. Build. Repeat.”  
